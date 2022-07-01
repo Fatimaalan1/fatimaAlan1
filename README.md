@@ -4,5 +4,5 @@
 - 📫 How to reach me; email = fatimahalani@me.com
                       phone = (587)-225-7244
                       
-![](https://raw.githubusercontent.com/fatimaalan1/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/fatimaalan1/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+![Fatima's Github Status](https://github-readme-stats.vercel.app/api?username=fatimaAlan1&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
