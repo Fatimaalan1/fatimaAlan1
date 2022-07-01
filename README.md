@@ -4,7 +4,7 @@
 - 📫 How to reach me; email = fatimahalani@me.com
                       phone = (587)-225-7244
                       
-
+![](https://raw.githubusercontent.com/FatimaAlan1/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 <!---
 fatimaAhmed36/fatimaAhmed36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
