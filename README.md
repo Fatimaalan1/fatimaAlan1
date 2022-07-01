@@ -9,4 +9,4 @@
 fatimaAhmed36/fatimaAhmed36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Fatima's github stats](https://github-readme-stats.vercel.app/api?username=fatimaAhmed36)](https://github.com/fatimaAhmed36/github-readme-stats)
+[![Fatima's github stats](https://github-readme-stats.vercel.app/api?username=fatimaAlan1)](https://github.com/fatimaAlan1/github-readme-stats)
